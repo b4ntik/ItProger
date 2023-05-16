@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\ItProger\ItProger\bin\Debug\net6.0\ItProger.exe
+C:\Users\PC\source\repos\ItProger\ItProger\bin\Debug\net6.0\ItProger.deps.json
+C:\Users\PC\source\repos\ItProger\ItProger\bin\Debug\net6.0\ItProger.runtimeconfig.json
+C:\Users\PC\source\repos\ItProger\ItProger\bin\Debug\net6.0\ItProger.dll
+C:\Users\PC\source\repos\ItProger\ItProger\bin\Debug\net6.0\ItProger.pdb
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ItProger.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ItProger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ItProger.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ItProger.AssemblyInfo.cs
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ItProger.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ItProger.dll
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\refint\ItProger.dll
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ItProger.pdb
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ItProger.genruntimeconfig.cache
+C:\Users\PC\source\repos\ItProger\ItProger\obj\Debug\net6.0\ref\ItProger.dll
